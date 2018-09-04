@@ -1,0 +1,2 @@
+# compare_directory
+ディレクトリ単位でファイル内容が同一か調べるpowershellコマンド
